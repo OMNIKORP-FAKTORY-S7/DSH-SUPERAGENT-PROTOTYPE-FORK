@@ -1,3 +1,19 @@
+# DSH-SUPERAGENT-PROTOTYPE-FORK
+
+## Origine
+- Fork de : **DSH SuperAgent Prototype**
+- Auteur : deepseek-ai
+- Dépôt d'origine : https://github.com/deepseek-ai/dsh-superagent-prototype
+- Forké le 13.11.2026 par OMNIKORP-FAKTORY, avec tout l'historique et toutes les branches
+
+## Rôle chez OMNIKORP
+Prétendant d'AGENT SOFIA (S7), conservé comme preuve et sauvegarde, et étudié dans la chaîne EXTRACTION, COMPARAISON, FUSION.
+
+## Licence
+MIT, inchangée dans le fichier LICENSE.
+
+---
+
 # dsh-superagent
 
 > **Research prototype for reference only, not an official DeepSeek product.** This code grew out of our team's day-to-day development work, with much of the engineering done by coding agents. Treat it as research code, not production-ready software. It may still contain bugs, and its coding style and engineering practices may be inconsistent. Review and adapt it before using it in your own environment.
